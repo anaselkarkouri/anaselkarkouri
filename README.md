@@ -12,9 +12,12 @@ I am seeking a **final-year internship (PFE) starting 1 February 2027**, for **4
 
 ## Main cybersecurity projects
 
-- [**Cyber Risk & Security Control Assessment**](https://github.com/anaselkarkouri/grc-cyber-risk-assessment) — Simulated SME case: **12 risks**, a treatment plan, security policies, a Statement of Applicability excerpt and NIST CSF 2.0 current/target profiles. Separate laboratory evidence documents selected checks involving Keycloak/MFA, Windows/Wazuh, file restoration and Git history.
+- [**Cyber Risk & Security Control Assessment**](https://github.com/anaselkarkouri/grc-cyber-risk-assessment) — Simulated SME case: **12 risks**, a treatment plan, security policies, a Statement of Applicability excerpt and NIST CSF 2.0 current/target profiles. Includes separate lab checks of Keycloak/MFA, Windows/Wazuh, file restoration and Git history.
+
 - [**Mini-SOC Web**](https://github.com/anaselkarkouri/Mini-SOC-Web) — Collective web security lab connecting **HTTP logs, Python detection, alert triage and Wazuh**. SQLi/XSS and failed-login scenarios, two documented investigations, targeted fixes and OWASP ZAP retests.
+
 - [**SaaS Vendor Cyber Risk Assessment (TPRM)**](https://github.com/anaselkarkouri/grc-saas-vendor-risk-assessment) — Simulated supplier assessment: **20 questionnaire responses**, nine supporting documents, eight risks, remediation actions and a reasoned recommendation with conditions for production use.
+
 - [**Malware Analysis — SIEM & Sandbox**](https://github.com/anaselkarkouri/malware-analysis-siem-sandbox) — Collective Tanger Med internship lab: **Python, ClamAV, YARA, CAPEv2 and Wazuh** for static/dynamic file analysis and SHA-256 traceability, with a separate Sysmon telemetry flow.
 
 Each repository includes its deliverables, documented evidence and validation scope.
