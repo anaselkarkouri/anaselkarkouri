@@ -2,7 +2,9 @@
 
 **Fifth-year Cybersecurity Engineering Student · EMSI Tanger**
 
-I am interested in **GRC, Cyber Risk and Information Security Audit**, alongside **SOC/SIEM and threat detection**. My internships at **Tanger Med** and **Amendis** gave me practical experience in malware analysis, log monitoring and security awareness.
+I am interested in **Governance, Risk & Compliance (GRC), Cyber Risk and Information Security Audit**, alongside **SOC/SIEM and threat detection**.
+
+At **Tanger Med**, I contributed to a collective malware-analysis and SIEM prototype in a virtualized lab. At **Amendis**, I worked on cybersecurity awareness.
 
 I am seeking a **final-year internship (PFE) starting 1 February 2027**, for **4–6 months, preferably six**, with an EMSI internship agreement.
 
